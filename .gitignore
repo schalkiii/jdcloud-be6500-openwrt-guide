@@ -1,0 +1,10 @@
+# 二进制固件不进仓库，统一走 GitHub Release
+*.bin
+
+# 私人路由器备份（含唯一的 ART/factory/MAC/SN），严禁上传
+backup_from_router/
+backup_output/
+
+# Python 缓存
+__pycache__/
+*.pyc

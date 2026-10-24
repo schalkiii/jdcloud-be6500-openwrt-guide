@@ -1,0 +1,5 @@
+# MD5 checksums for GitHub Release assets (jdcloud-be6500-openwrt-guide)
+# Verify after download:  md5sum -c checksums.txt
+49f84b72b9a7b2463f1ae3ae56f4090a  uboot-ipq53xx-jdcloud_re-cs-06-260907_172823_3e89586.bin
+ae443a020d288d4f361f8c1b71c35e64  QWRT-R26.09.18-ipq53xx-generic-jdcloud_be6500-squashfs-factory.bin
+a53deb5c041e16dd6cd20afa4c40838b  QWRT-R26.09.26-ipq53xx-generic-jdcloud_be6500-squashfs-sysupgrade.bin
